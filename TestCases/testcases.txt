@@ -1,0 +1,5 @@
+Test Cases InfoFile
+
+This link leads to a .doc file on Google Drive. Public access is open, the file contains test cases
+
+https://docs.google.com/document/d/1wvsLkEibb_-M0Y1Tz3_VnxWgLp3xPR8grVazNUtWBUQ/edit?usp=sharing
